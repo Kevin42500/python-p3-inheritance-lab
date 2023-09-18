@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-from student import Student
-from user import User
+
+from lib.user import User
+from lib.student import Student
+
         
 class TestStudent:
     '''Class "Student" in student.py'''
